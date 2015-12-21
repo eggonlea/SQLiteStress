@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///srv/work/AndroidStudioProjects/SQLiteStress/SQLiteStress.iml" filepath="/srv/work/AndroidStudioProjects/SQLiteStress/SQLiteStress.iml" />
+      <module fileurl="file:///srv/work/AndroidStudioProjects/SQLiteStress/app/app.iml" filepath="/srv/work/AndroidStudioProjects/SQLiteStress/app/app.iml" />
+    </modules>
+  </component>
+</project>
