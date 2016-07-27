@@ -5,19 +5,13 @@
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="1.7" />
         <option name="modules">
           <set>
-            <option value="/srv/work/AndroidStudioProjects/SQLiteStress" />
-            <option value="/srv/work/AndroidStudioProjects/SQLiteStress/app" />
+            <option value="/srv/work/vobs/AndroidStudioProjects/SQLiteStress" />
+            <option value="/srv/work/vobs/AndroidStudioProjects/SQLiteStress/app" />
           </set>
         </option>
-        <option name="myModules">
-          <set>
-            <option value="/srv/work/AndroidStudioProjects/SQLiteStress" />
-            <option value="/srv/work/AndroidStudioProjects/SQLiteStress/app" />
-          </set>
-        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>
