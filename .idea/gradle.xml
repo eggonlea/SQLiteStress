@@ -7,8 +7,8 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="/srv/work/vobs/AndroidStudioProjects/SQLiteStress" />
-            <option value="/srv/work/vobs/AndroidStudioProjects/SQLiteStress/app" />
+            <option value="/srv/vobs/eggonlea.github.com/SQLiteStress" />
+            <option value="/srv/vobs/eggonlea.github.com/SQLiteStress/app" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

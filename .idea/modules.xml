@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/SQLiteStress.iml" filepath="$PROJECT_DIR$/SQLiteStress.iml" />
       <module fileurl="file:///srv/work/vobs/AndroidStudioProjects/SQLiteStress/SQLiteStress.iml" filepath="/srv/work/vobs/AndroidStudioProjects/SQLiteStress/SQLiteStress.iml" />
+      <module fileurl="file:///srv/vobs/eggonlea.github.com/SQLiteStress/app/app.iml" filepath="/srv/vobs/eggonlea.github.com/SQLiteStress/app/app.iml" />
       <module fileurl="file:///srv/work/vobs/AndroidStudioProjects/SQLiteStress/app/app.iml" filepath="/srv/work/vobs/AndroidStudioProjects/SQLiteStress/app/app.iml" />
     </modules>
   </component>
